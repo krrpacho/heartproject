@@ -1,4 +1,5 @@
-# trying out with 3d models
+# About this project
+## just me trying out 3d models
 
 
 # Getting Started with Create React App
