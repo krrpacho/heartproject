@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/heartproject/static/css/main.e6c13ad2.css",
+    "main.js": "/heartproject/static/js/main.a709964b.js",
+    "static/js/453.ca635f4a.chunk.js": "/heartproject/static/js/453.ca635f4a.chunk.js",
+    "index.html": "/heartproject/index.html",
+    "main.e6c13ad2.css.map": "/heartproject/static/css/main.e6c13ad2.css.map",
+    "main.a709964b.js.map": "/heartproject/static/js/main.a709964b.js.map",
+    "453.ca635f4a.chunk.js.map": "/heartproject/static/js/453.ca635f4a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.a709964b.js"
+  ]
+}
