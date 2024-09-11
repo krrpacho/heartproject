@@ -1,3 +1,7 @@
+# About this project
+## just me trying out 3d models
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
