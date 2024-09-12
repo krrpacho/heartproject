@@ -5,7 +5,9 @@ import { GLTFLoader } from 'three/examples/jsm/loaders/GLTFLoader';
 import { OrbitControls } from '@react-three/drei';
 
 function HeartModel() {
-  const gltf = useLoader(GLTFLoader, '/model/scene.gltf');
+  //const gltf = useLoader(GLTFLoader, '/model/scene.gltf');
+  const gltf = useLoader(GLTFLoader, process.env.PUBLIC_URL + '/model/scene.gltf');
+
   return <primitive object={gltf.scene} scale={3} />;
 }
 
@@ -64,7 +66,8 @@ function App() {
         <OrbitControls />
       </Canvas>
 
-      <audio ref={audioRef} src="/heartbeat.wav" loop />
+      <audio ref={audioRef} src={process.env.PUBLIC_URL + '/heartbeat.wav'} loop />
+
 
       {showMessage && (
         <div
