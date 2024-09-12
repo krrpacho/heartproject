@@ -2,7 +2,7 @@
 just me trying out 3d models
 
 ## More
-Was trying to experiment with 3d models and Three.js. The whole idea was to animate this beautiful heart model (link bellow), making it look like a realistic, beating heart. , also adding a slider to allow user change the heart BPM and see how faster/slower heart beats (also adjusting the sound to it)
+Was trying to experiment with 3d models and Three.js. The whole idea was to animate this beautiful heart model (link bellow), making it look like a realistic, beating heart, also adding a slider to allow user change the heart BPM and see how faster/slower heart beats (also adjusting the sound to it)
 
 But it was quite impossible to make it look realistic using only library tools (also, my 3D animation skills are very poor and my experience with Blender is too traumatic)
 
