@@ -6,7 +6,7 @@ Was trying to experiment with 3d models and Three.js. The whole idea was to anim
 
 But it was quite impossible to make it look realistic using only library tools (also, my 3D animation skills are very poor and my experience with Blender is too traumatic)
 
-I tried finding a pre-animated heart model to implement this idea, but couldn't find one that fit the project. So, what I ended up with is more of an "online art gallery" dedicated to a single, beautiful heart model.
+I tried finding a pre-animated heart model to implement this idea, but couldn't find one that fit the project. So, what I ended up with is more of an "online art gallery" dedicated to a single, beautiful heart model
 
 ## Contribution
 
